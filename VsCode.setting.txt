@@ -1,0 +1,19 @@
+{
+  "window.zoomLevel": 2,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "jest.autoRun": {
+    "watch": false
+  },
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "off"
+  },
+  "editor.suggest.showWords": false,
+  "editor.wordBasedSuggestions": false,
+  "editor.parameterHints.enabled": false,
+}
